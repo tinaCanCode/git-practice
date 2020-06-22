@@ -1,0 +1,5 @@
+Hello World! This is my git practice document
+
+Name: Tina
+Age: 32
+Favorite Color: Bordeaux
